@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '4192'
     url: http://www.gutenberg.org/2009/agents/4192
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29222#The-Prince-of-ParthiaA-Tragedy
 gutenberg_issued: '2009-06-26'
 gutenberg_type: Text
 identifiers:
